@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://iosbuild.aydream.com/app/Unity-iPhone.ipa</string>
+					<string>https://192.168.75.208/app/Unity-iPhone.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://iosbuild.aydream.com/app/soulfire.png</string>
+					<string>https://192.168.75.208/app/soulfire.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://iosbuild.aydream.com/app/soulfire.png</string>
+					<string>https://192.168.75.208/app/soulfire.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
